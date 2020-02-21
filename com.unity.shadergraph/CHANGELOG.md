@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 ### Fixed
-- Fixed a bug where PBR and Unlit master nodes in Universal had Alpha Clipping enabled by default.
+- Fixed a bug where PBR and Unlit master nodes in the Universal RP had Alpha Clipping enabled by default.
 
 ## [7.2.0] - 2020-02-10
 
