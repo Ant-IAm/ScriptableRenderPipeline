@@ -2,7 +2,7 @@
 
 ## Description
 
-Provides a dynamic branch to the shader. If input **Predicate** is true the return output will be equal to input **True**, otherwise it will be equal to input **False**. This is determined per vertex or per pixel depending on shader stage. Both sides of the branch will be evaluated in the shader, and the branch not used will be discarded.
+Provides a dynamic branch to the shader. If input **Predicate** is true, the return output is equal to input **True**. Otherwise, it is equal to input **False**. This is determined per vertex or per pixel depending on the shader stage. Both sides of the branch are evaluated in the shader, and the unused branch is discarded.
 
 ## Ports
 
